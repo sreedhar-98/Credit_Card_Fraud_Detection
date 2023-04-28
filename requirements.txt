@@ -1,1 +1,8 @@
-ECHO is off.
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+flask
+xgboost
+#-e .
